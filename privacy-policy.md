@@ -13,7 +13,7 @@ The app does NOT use third party services that may collect information used to i
 <h2>Device Information</h2>
 We do NOT collect any information from your device. 
 
-<h2>Security<h2>
+<h2>Security</h2>
 
 We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
@@ -25,7 +25,7 @@ We are committed to protecting the privacy of children who use our app. Our app 
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
   
-<h2>Contact Us<h2>
+<h2>Contact Us</h2>
   
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
