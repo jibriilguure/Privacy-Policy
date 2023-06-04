@@ -19,11 +19,12 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 <h2>Children’s Privacy</h2>
 
-We are committed to protecting the privacy of children who use our app. Our app is designed for users aged 12 and above, and we do not knowingly collect any personal information from children.
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions. 
 
 <h2>Changes to This Privacy Policy</h2>
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
   
 <h2>Contact Us</h2>
   
