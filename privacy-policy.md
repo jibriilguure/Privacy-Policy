@@ -19,7 +19,7 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 <h2>Children’s Privacy</h2>
 
-We are committed to protecting the privacy of children who use our app. Our app is designed for users aged 3 and above, and we do not knowingly collect any personal information from children.
+We are committed to protecting the privacy of children who use our app. Our app is designed for users aged 12 and above, and we do not knowingly collect any personal information from children.
 
 <h2>Changes to This Privacy Policy</h2>
 
