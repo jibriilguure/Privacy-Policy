@@ -19,12 +19,13 @@ We value your trust in providing us your Personal Information, thus we are striv
 
 <h2>Children’s Privacy</h2>
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take the necessary actions.
+
+These Services do not address anyone under the age of 18. We do not knowingly collect personally identifiable information from individuals under 18 years of age.
 
 <h2>Changes to This Privacy Policy</h2>
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
-Last Update 2024-04-14
+Last Update 2024-04-21
 
 <h2>Contact Us</h2>
 
