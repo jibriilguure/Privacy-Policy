@@ -2,7 +2,7 @@
 
 <h2>Introduction</h2>
 
-Our privacy policy will help you understand what information we collect at SAFI App, how SAFI App uses it, and what choices you have. SAFI App built the SAFI App as a free app. This SERVICE is provided by SAFI App at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+Our privacy policy will help you understand what information we collect at SAFI Cashbook, how SAFI Cashbook uses it, and what choices you have. SAFI Cashbook built the SAFI Cashbook as a free app. This SERVICE is provided by SAFI Cashbook at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible on our website, unless otherwise defined in this Privacy Policy.
 
 <h2>Information Collection and Use</h2>
