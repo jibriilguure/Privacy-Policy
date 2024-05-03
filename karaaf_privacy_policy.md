@@ -1,4 +1,4 @@
-<h1>Privacy Policy</h1>
+<h1>Karaaf Privacy Policy</h1>
 
 <h2>Introduction</h2>
 
