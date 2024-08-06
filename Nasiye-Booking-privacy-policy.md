@@ -6,7 +6,7 @@ Our privacy policy will help you understand what information we collect at Nasiy
 
 <h2>Information Collection and Use</h2>
 
-For a better experience while using our Service, we may require you to provide us with your Gmail account if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app does NOT use third-party services that may collect information used to identify you. Users can view the app content without needing to sign in.
+For a better experience while using our Service, we may require you to provide us with your Gmail account if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app uses Gmail as a third-party service that may collect information used to identify you. Users can view the app content without needing to sign in.
 
 <h2>Location Information</h2>
 
@@ -23,6 +23,10 @@ We value your trust in providing us your Personal Information, thus we are striv
 <h2>Children’s Privacy</h2>
 
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions. 
+
+<h2>User Account Management</h2>
+
+Users have the ability to delete their information within the app. This includes any personal data or booking information stored in the app. To delete your information, you can access the account settings and follow the provided instructions.
 
 <h2>Changes to This Privacy Policy</h2>
 
