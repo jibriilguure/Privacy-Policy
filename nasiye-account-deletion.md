@@ -26,7 +26,7 @@ When you request to delete your account, the following data will be permanently 
 - Booking history
 - Any messages sent via the chat feature
 
-Please note that some data may be retained for a period as required by law or for legitimate business purposes.
+
 
 ## Additional Deletion Request
 
