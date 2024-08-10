@@ -6,14 +6,16 @@ If you wish to delete your Nasiye Booking account and associated data, please fo
 
 1. **Go to the Profile Tab:**  
    Open the Nasiye Booking app and navigate to your profile tab.
+2. **Go to the Acount Delete Account:**  
+   Open the Nasiye Booking app and navigate to your profile tab.
 
-2. **Access Settings:**  
+3. **Access Settings:**  
    Once on your profile tab, click on the settings option.
 
-3. **Delete Account:**  
+4. **Delete Account:**  
    In the settings, click on the "Delete Account" option.
 
-4. **Confirm Deletion:**  
+5. **Confirm Deletion:**  
    A confirmation prompt will appear. Click the "Delete" button to permanently delete your account.
 
 ## Data Deletion Information
