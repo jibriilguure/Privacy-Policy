@@ -16,7 +16,7 @@ Welcome to the Nasiye Booking support page! Here, you can find answers to common
    - Please try restarting the app and checking your internet connection. If the issue persists, contact our support team for further assistance.
 
 
-5. **Is there payment functionality in the app?**
+4. **Is there payment functionality in the app?**
    - No, Nasiye Booking does not support payment through the app. All payments are processed outside of the app, usually directly with the service provider.
 
 ---
@@ -43,5 +43,5 @@ If you need further assistance, feel free to reach out:
 
 ## Additional Resources
 
-- [User Guide for deleting account ](https://github.com/jibriilguure/Privacy-Policy/edit/main/nasiye-account-deletion.md)
+- [User Guide for deleting account ](https://github.com/jibriilguure/Privacy-Policy/blob/main/nasiye-account-deletion.md)
 - [Privacy Policy](https://github.com/jibriilguure/Privacy-Policy/blob/main/Nasiye-Booking-privacy-policy.md)
