@@ -6,7 +6,7 @@ Our privacy policy will help you understand what information we collect at Nasiy
 
 <h2>Information Collection and Use</h2>
 
-For a better experience while using our Service, we may require you to provide us with your Gmail account or apple singin (ios platform) if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app uses Gmail as a third-party service and apple singin (ios platform) that may collect information used to identify you. <b>Users can view the app content without needing to sign in.</b>
+For a better experience while using our Service, we may require you to provide us with your Gmail account or apple singin (ios platform) if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app uses Gmail as a third-party service and apple singin (ios platform) that may collect information used to identify you. <u> <b>Users can view the app content without needing to sign in.</b> </u>
 
 <h2>Location Information</h2>
 
