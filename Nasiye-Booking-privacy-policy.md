@@ -10,7 +10,7 @@ For a better experience while using our Service, we may require you to provide u
 
 <h2>Location Information</h2>
 
-We use location information to show you nearby hotels if you accept location permission. This information is used solely for this purpose and is not shared with anyone. and NOT store in our seriver and 
+We use location information to show you nearby hotels if you accept location permission. This information is used solely for this purpose and is not shared with anyone. and NOT store in our server and 
 The data that is actively being used and processed while it is in mobile memory is specifically.
 
 <h2>Chat Feature</h2>
