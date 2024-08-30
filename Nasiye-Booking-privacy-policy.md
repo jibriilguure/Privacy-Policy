@@ -6,11 +6,12 @@ Our privacy policy will help you understand what information we collect at Nasiy
 
 <h2>Information Collection and Use</h2>
 
-For a better experience while using our Service, we may require you to provide us with your Gmail account if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app uses Gmail as a third-party service that may collect information used to identify you. Users can view the app content without needing to sign in.
+For a better experience while using our Service, we may require you to provide us with your Gmail account or apple singin (ios platform) if you wish to contact the admins or send booking information to the admins. This information will be used to contact you regarding your bookings and will be retained by us as described in this privacy policy. The app uses Gmail as a third-party service and apple singin (ios platform) that may collect information used to identify you. Users can view the app content without needing to sign in.
 
 <h2>Location Information</h2>
 
-We use location information to show you nearby hotels if you accept location permission. This information is used solely for this purpose and is not shared with anyone.
+We use location information to show you nearby hotels if you accept location permission. This information is used solely for this purpose and is not shared with anyone. and NOT store in our seriver and 
+The data that is actively being used and processed while it is in mobile memory is specifically.
 
 <h2>Chat Feature</h2>
 
@@ -32,6 +33,12 @@ Users have the ability to delete their information within the app. This includes
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
 Last Update: Fri 3, 2024
+
+
+<h2>  Additional Resources </h2>
+
+- [User Guide for deleting account ](https://github.com/jibriilguure/Privacy-Policy/blob/main/nasiye-account-deletion.md)
+- [Support URL](https://github.com/jibriilguure/Privacy-Policy/blob/main/nasiye_%20Support.md)
 
 <h2>Contact Us</h2>
   
